@@ -1,0 +1,77 @@
+.card_btn_reset{
+    background-color: darkcyan;
+    width: auto;
+    width: 7rem;
+    font-size: small;
+    padding: 10px;
+}
+
+.card_btn_delete{
+    width: auto;
+    background-color: brown;
+    width: 7rem;
+    font-size: small;
+    padding: 10px;
+}
+
+.card_select_category{
+    margin: 10px;
+    background-color: darkslateblue;
+    border-radius: 5px;
+}
+/* 
+.mybox{
+    background:rgb(137, 124, 214);
+
+} */
+
+.align_center_user{
+    text-align: center;
+}
+
+.cardElement{
+    margin: 2px;
+    box-shadow: 0px 0px 5px rgb(221, 221, 221);
+    border-radius: 3px;
+    border: 0px;
+    background-color:darkcyan;
+    color: white;
+    float: left;
+    max-width: 30%;
+}
+
+.card-createdDate{
+    font-size: small;
+    text-align: left;
+}
+
+.card-header{
+    font-size: x-large;
+    background: transparent;
+    padding: 5px;
+    color: white;
+}
+
+.card-body{
+    padding: 5px;   
+    background-color: azure;
+    background: transparent;
+    text-align: center;
+}
+
+.card-meaning{
+    font-size: x-large;
+    background: transparent;
+    padding: 5px;
+}
+
+.card-sentance{
+    font-size: large;
+    word-wrap: unset;
+    background: transparent;
+    padding: 5px;
+}
+
+.card-actions{
+    display: flex;
+}

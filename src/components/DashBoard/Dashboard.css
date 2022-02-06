@@ -1,0 +1,20 @@
+.DashbaordBlock{
+    color: rgb(0, 0, 0);
+    display: block;
+    /* padding: 10px;
+    margin: 10px; */
+    /* border-radius: 10px; */
+    /* background-color: darkblue; */
+    font-size: small;
+}
+
+.dashboardContainer{
+    color: rgb(0, 0, 0);
+    font-size: large;
+}
+
+.StatusOfCount{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}

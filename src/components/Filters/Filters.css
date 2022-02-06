@@ -1,0 +1,15 @@
+.FiltersBlock{
+    text-align: center;
+    display: block;
+}
+
+.FilterSelect{
+    width: 50%; 
+    height: 30px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 1px 1px 1px #888;
+}
